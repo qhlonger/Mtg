@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  Mortgage
+
+  Created by mini on 2018/1/2.
+  Copyright © 2018年 Apple. All rights reserved.
+*/
+
+"debx" = "等额本息";
+"debj" = "等额本金";
+
+"syyg" = "首月月供";
+"mydj" = "每月递减";
+"zhk" = "总还款";
+"zlx" = "总利息";
+"myyg" = "每月月供";
+
+"sydk" = "商业贷款";
+"gjjdk" = "公积金贷款";
+"zhdk" = "组合贷款";
+
+"sydkje" = "商业贷款金额";
+"dknx" = "贷款年限";
+"sydkll" = "商业贷款利率";
+
+"gjjdkje" = "公积金贷款金额";
+"gjjdkll" = "公积金贷款利率";
+
+"ys" = "月数";
+"myyh" = "每月应还";
+"mybj" = "每月本金";
+"mylx" = "每月利息";
+"d" = "第";
+"y" = "月";
+"w" = "万";
+"n" = "年";
+"qr" = "确\n认";
+
+"jzll" = "基准利率";
+"bll" = "倍利率";
+"zll" = "折利率";
+
+
+"gy" = "关于";
+"fk" = "反馈";
+"tj" = "提交";
+
+"srcw" = "输入错误";
+"tjcg" = "提交成功";
+
+
+"llb" = "利率表";
+
+"dqyy" = "当前语言";
+
+"appname" = "红色助手";

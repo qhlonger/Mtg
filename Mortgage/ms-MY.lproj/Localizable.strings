@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  Mortgage
+
+  Created by mini on 2018/1/2.
+  Copyright © 2018年 Apple. All rights reserved.
+*/
+"debx" = "Kepentingan dan kepentingan yang sama";
+"debj" = "Ketua bersamaan";
+
+"syyg" = "Bulan pertama untuk bulan itu";
+"mydj" = "Menurun bulanan";
+"zhk" = "Jumlah bayaran balik";
+"zlx" = "Jumlah minat";
+"myyg" = "Bulanan bulanan";
+
+"sydk" = "Pinjaman komersial";
+"gjjdk" = "Pinjaman Kumpulan Wang Simpanan";
+"zhdk" = "Pinjaman portfolio";
+
+"sydkje" = "Jumlah pinjaman komersial";
+"dknx" = "Tahun pinjaman";
+"sydkll" = "Kadar faedah pinjaman komersial";
+
+"gjjdkje" = "Amaun pinjaman kumpulan wang simpanan";
+"gjjdkll" = "Kadar faedah pinjaman Kumpulan Wang Simpanan";
+
+"ys" = "Bulan";
+"myyh" = "Perlu dikembalikan setiap bulan";
+"mybj" = "Pengetua bulanan";
+"mylx" = "Minat bulanan";
+"d" = "";
+"y" = "";
+"w" = "Juta";
+"n" = "Tahun";
+"qr" = "Sahkan";
+
+"jzll" = "Kadar faedah penanda aras";
+"bll" = "kali kadar faedah";
+"zll" = "Kadar diskaun";
+
+"gy" = "Mengenai";
+"fk" = "Maklumbalas";
+"tj" = "Hantar";
+
+"srcw" = "Kesalahan input";
+"tjcg" = "Dihantar berjaya";
+
+
+"llb" = "Jadual kadar faedah";
+
+"dqyy" = "Bahasa semasa";
+
+"appname" = "Kalkulator Pinjaman perumahan";
